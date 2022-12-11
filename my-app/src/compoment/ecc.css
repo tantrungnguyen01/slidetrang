@@ -1,0 +1,16 @@
+.post {
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 10px;
+    width: calc(100% / 4 - 11px);
+}
+.warpper{
+    display: flex;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    justify-content: space-evenly ;
+    line-height: 40px;
+}
+.app{
+    padding: 0 10px;
+}
